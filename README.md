@@ -1,7 +1,7 @@
 # C# Eğitim Kampı Ders 17
 
 ## Bir Seyahat Acentesi Senaryosu için Veri Tabanında Veriler Oluşturuldu ve Windows Form Ekranında Bulunan 12 Panele Acentede Bulunan Turlar için LİNQ Sorguları Yapıldı. 
-**Ekran Görüntüsü Ekteki Gibidir.**
+                                                        **Ekran Görüntüsü Ekteki Gibidir.**
 
 
 📌 - Veri Tabanı olarak MSSQL kullanılmıştır.
