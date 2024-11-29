@@ -10,8 +10,8 @@ namespace CSharpEgitimKampi.DataAccesLayer.Abstract
     {
         void Insert(T entity);
         void Update(T entity);
-        void Delete(int Id);
-        Lazy<T> GetAll();
+        void Delete(T entity);
+        List<T> GetAll();
         T GetById(int Id);
 
     }
